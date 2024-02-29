@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-indent: 1em;
+    font-size: 1.8em;
+}
+h2{
+    font-size: 1.5em;
+    text-indent: .75em;
+}
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+img.photo{
+    float:left;
+    margin:0 0 0 2em;
+}
+li.list{
+    list-style-type: circle;
+    margin-left: 2em;
+}
+.big{
+    font-size: 3em;
+}
+ul{
+    line-height: 1.5em;
+}
+p{
+    line-height: 1.3em;
+    font-weight: 200;
+}
